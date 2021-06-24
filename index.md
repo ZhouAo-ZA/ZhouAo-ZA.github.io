@@ -7,7 +7,7 @@
       <p><b>××北京航空航天大学计算机学院</b></p>
       <p><b>邮箱：425109310@qq.com</b></p>
       <p><b>地址：北京市海淀区北京航空航天大学</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <p><a href="/index-en.md">English Version</a></p>
     </td>
     <td width="25%">
       <img src="/za.png" width="100%">
