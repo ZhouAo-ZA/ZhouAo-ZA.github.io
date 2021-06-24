@@ -7,7 +7,7 @@
       <p><b>computer science, Beihang University</b></p>
       <p><b>E-mail：425109310@qq.com</b></p>
       <p><b>Address：Beihang University, Beijing</b></p>
-      <a href="/index.html">中文版</a>
+      <a href="/index.md">中文版</a>
     </td>
     <td width="25%">
       <img src="/za.png" width="100%">
