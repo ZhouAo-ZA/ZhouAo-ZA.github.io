@@ -23,27 +23,14 @@
 ---
 
 ### 最新消息
-1. 消息1×××
+1. 在北航计算机学院ACT实验室攻读博士研究生
 
 ### 研究方向
 - GNN
 - 异构计算
 - FPGA加速器设计
 
-### 荣誉奖励
-- 奖学金
-- 荣誉称号
-- 比赛获奖
-
-### 项目研究
-#### 公司/学校/研究所（2013.9~2017.6）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
-
-#### 公司/学校/研究所（2017.9~至今）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
+### 论文发表
+[1] Zhou, Ao, et al. "Brief Industry Paper: optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms." 2021 IEEE 27th Real-Time and Embedded Technology and Applications Symposium (RTAS). IEEE, 2021.
+### 其他工作
+[1] PyG框架的contributor，基于[1]的论文对PyG框架的messagepassing模块进行了改进。
