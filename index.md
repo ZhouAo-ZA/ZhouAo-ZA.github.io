@@ -33,7 +33,9 @@
 ### 论文发表
 [1] <b>Zhou, Ao</b>, et al. "Brief Industry Paper: optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms." 2021 IEEE 27th Real-Time and Embedded Technology and Applications Symposium (RTAS). IEEE, 2021.
 
-[2] Dingcheng Yang, Wenjian Yu, <b>Ao Zhou</b>, Haoyuan Mu, Gary Yao, Xiaoyi Wang. DP-Net: Dynamic Programming Guided Deep Neural Network Compression. arXiv preprint arXiv:2003.09615, 2020
+[2] Dingcheng Yang, Wenjian Yu, Xiangyun Ding, <b>Ao Zhou</b>, Xiaoyi Wang. DP-Nets: Dynamic programming assisted quantization schemes for DNN compression and acceleration. *Integration*, 2021
+
+[3] Dingcheng Yang, Wenjian Yu, <b>Ao Zhou</b>, Haoyuan Mu, Gary Yao, Xiaoyi Wang. DP-Net: Dynamic Programming Guided Deep Neural Network Compression. arXiv preprint arXiv:2003.09615, 2020
 
 ### 专利
 [1] 周傲, 谌云莉, and 王晓懿. "一种基于CPU-FPGA的大规模图上的随机游走异构计算系统.". 
