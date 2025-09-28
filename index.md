@@ -36,11 +36,10 @@
 3. **Ao Zhou**, Jianlei Yang, Tong Qiao, Yingjie Qi, Zhi Yang, Weisheng Zhao, Chunming Hu. *Graph Neural Networks Automated Design and Deployment on Device-Edge Co-Inference Systems.* ACM/IEEE Design Automation Conference (DAC), 2024. **(CCF-A)** （入选第26届 ChinaSys Spotlight 论文；入选中国电子学会 2024 优博论坛博士生专场报告）  
 4. **Ao Zhou**, Jianlei Yang, Yingjie Qi, Yumeng Shi, Tong Qiao, Weisheng Zhao, Chunming Hu. *Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms.* ACM/IEEE Design Automation Conference (DAC), 2023. **(CCF-A)** （入选第25届 ChinaSys 口头报告）  
 5. **Ao Zhou**, Jianlei Yang, Yeqi Gao, Tong Qiao, Yingjie Qi, Xiaoyi Wang, Yunli Chen, Pengcheng Dai, Weisheng Zhao, Chunming Hu. *Optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms.* IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2021. **(CCF-B)**  
-6. **Ao Zhou**, Jianlei Yang, Tong Qiao, Yingjie Qi, Zhi Yang, Weisheng Zhao, Chunming Hu. *GCoDE: Efficient Device-Edge Co-Inference for GNNs via Architecture-Mapping Co-Search.* **(已投稿 TC)**  
-7. Tong Qiao, **Ao Zhou**, Yingjie Qi, Yiou Wang, Han Wan, Jianlei Yang, Chunming Hu. *Towards Affordable, Adaptive and Automatic GNN Training on CPU-GPU Heterogeneous Platforms.* IEEE International Conference on Computer Design (ICCD), 2025. **(CCF-B)**  
-8. Tong Qiao, Jianlei Yang, Yingjie Qi, **Ao Zhou**, Chen Bai, Bei Yu, Weisheng Zhao, Chunming Hu. *GNNavigator: Towards Adaptive Training of Graph Neural Networks via Automatic Guideline Exploration.* ACM/IEEE Design Automation Conference (DAC), 2024. **(CCF-A)**  
-9. Yingjie Qi, Jianlei Yang, **Ao Zhou**, Tong Qiao, Chunming Hu. *Architectural implications of GNN aggregation programming abstractions.* IEEE Computer Architecture Letters (CAL), 2023. **(SCI，JCR Q4)**  
-10. Dingcheng Yang, Wenjian Yu, Xiangyun Ding, **Ao Zhou**, Xiaoyi Wang. *DP-Nets: Dynamic programming assisted quantization schemes for DNN compression and acceleration.* *Integration*, 2022. **(CCF-C)**  
+6. Tong Qiao, **Ao Zhou**, Yingjie Qi, Yiou Wang, Han Wan, Jianlei Yang, Chunming Hu. *Towards Affordable, Adaptive and Automatic GNN Training on CPU-GPU Heterogeneous Platforms.* IEEE International Conference on Computer Design (ICCD), 2025. **(CCF-B)**  
+7. Tong Qiao, Jianlei Yang, Yingjie Qi, **Ao Zhou**, Chen Bai, Bei Yu, Weisheng Zhao, Chunming Hu. *GNNavigator: Towards Adaptive Training of Graph Neural Networks via Automatic Guideline Exploration.* ACM/IEEE Design Automation Conference (DAC), 2024. **(CCF-A)**  
+8. Yingjie Qi, Jianlei Yang, **Ao Zhou**, Tong Qiao, Chunming Hu. *Architectural implications of GNN aggregation programming abstractions.* IEEE Computer Architecture Letters (CAL), 2023. **(SCI，JCR Q4)**  
+9. Dingcheng Yang, Wenjian Yu, Xiangyun Ding, **Ao Zhou**, Xiaoyi Wang. *DP-Nets: Dynamic programming assisted quantization schemes for DNN compression and acceleration.* *Integration*, 2022. **(CCF-C)**  
 
 ---
 
